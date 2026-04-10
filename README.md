@@ -2,6 +2,8 @@
 
 A simple full-stack MVP built with Next.js App Router, TypeScript, Tailwind CSS, Prisma, and SQLite-compatible storage. Locally it runs against SQLite; for deployment it can use Turso through Prisma's libSQL adapter.
 
+Demo: https://longhorn-connect.vercel.app/
+
 ## Tech stack
 
 - Next.js App Router + TypeScript
